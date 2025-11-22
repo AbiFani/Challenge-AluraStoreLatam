@@ -1,4 +1,10 @@
 # Informe final
+Para el analisis se utilizaron las librerias
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+archivos csv para cada tienda
+
 <img width="343" height="327" alt="image" src="https://github.com/user-attachments/assets/b59356de-95e5-4948-af8b-0794d010ce0e" />
 
 <img width="490" height="338" alt="image" src="https://github.com/user-attachments/assets/89a99aba-4cb5-4d1e-a4d0-824e5386ee81" />
