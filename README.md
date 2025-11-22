@@ -11,4 +11,8 @@
 
 <img width="323" height="375" alt="image" src="https://github.com/user-attachments/assets/63dbae53-8ba6-43aa-9cb0-4081c80305e5" />
 
+# Extra - Analisis del desempeño geografico
+<img width="1284" height="681" alt="image" src="https://github.com/user-attachments/assets/57781639-7984-46d2-961a-acd56286cf01" />
+
+
 
